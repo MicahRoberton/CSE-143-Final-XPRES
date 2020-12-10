@@ -1,0 +1,17 @@
+		Micah Roberton:
+		This project helped me learn how to get paths set up for different libraries and getting those
+		libraries to work together. While doing this project I enjoyed the freedom 
+		of the project and being able to explore themes that interested me. I found
+		getting the text to speech to work frustrating and it took many different tutorial
+		attempts to understand the libraries and get the computer to speak. I found being able
+		to work with my partner when I got stuck extremely helpful, and when that didn't work we made
+		the IPL useful as well to get through whatever problem we were experiencing.
+		
+		Maria Nigos:
+		Although I faced many roadblocks during this project, I learned a huge amount of material in a short amount of time. 
+		I learned how machine learning uses data sets and proposed solutions in order to create an algorithm to solve for future inputs. 
+		I also learned how to utilize and implement predetermined classifiers using using eclipse. Challenges I faced included indicrepencies
+		between local and Github files, incompatibilites between current machine learning programs like TensorFlow with Java, and software to hardware
+		communication for text to speech execution. I think that resources like youtube and GitHub were helpful for teaching concepts to peoplelike me
+		who have very little hands on experience with machine learning algorithms. 
+		

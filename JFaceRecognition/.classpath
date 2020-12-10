@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-14">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libs/opencv-450.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="JFaceRecognition/libs/x64"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="resources/libs/cmu_time_awb.jar"/>
+	<classpathentry kind="lib" path="resources/libs/cmu_us_kal.jar"/>
+	<classpathentry kind="lib" path="resources/libs/cmudict04.jar"/>
+	<classpathentry kind="lib" path="resources/libs/cmulex.jar"/>
+	<classpathentry kind="lib" path="resources/libs/cmutimelex.jar"/>
+	<classpathentry kind="lib" path="resources/libs/en_us.jar"/>
+	<classpathentry kind="lib" path="resources/libs/freetts.jar"/>
+	<classpathentry kind="lib" path="resources/libs/freetts-jsapi10.jar"/>
+	<classpathentry kind="lib" path="resources/libs/jsapi.jar"/>
+	<classpathentry kind="lib" path="resources/libs/mbrola.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
