@@ -16,7 +16,7 @@
 		
 		Click Existing local repository and then click Next.
 		
-		Click Add to choose to browse to a local repository where you have the downloaded unzipped github file. Add it to local repositories list and select               		   it. Click Next. 
+		Click project from git to choose to browse to a local repository where you have the downloaded unzipped github file. Click Next. 
 		
 		In the Wizard for project import section, click Import existing Eclipse project. Click Next.
 		
