@@ -1,4 +1,6 @@
-		https://github.com/marian99uw/CSE-143-XPRES
+		https://github.com/marian99uw/CSE-143-XPRES   ||    This is the project.
+		
+		https://www.dropbox.com/s/xsbx028520xnjc6/zoom_3.mp4?dl=0   ||    This is the video.
 		
 		-Below is a step by step (line by line) instruction on how to get the program running.
 		
