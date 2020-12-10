@@ -1,5 +1,5 @@
 	 The program uses an OpenCV library to be able to recognize faces within photos.
-	 The program also uses a maryTTS for text to voice capability. 
+	 The program also uses a freeTTS for text to voice capability. 
 	 We chose for these two libraries to work together so that the computer
 	 can be passed in photos and output a modified image and record the amount of
 	 faces to report via the text to speech.
@@ -8,7 +8,7 @@
 	 
 	 The facial detection program uses an OpenCV file for frontal face recognition as a classifier for human faces. The program takes in an image and returns the number of faces detected in the image. Rectanges are drawn on the image for each detected face and the modified image is saved. To change the input image, upload a image under the file images. Then change the image file name in line 20 to match the desired input image. The outputted image can be found in the images folder named output.jpg.
 	 
-	 The text to speech program works by beginning an instance of a voice manager. 
-	 This voice manager then gets a voice assigned to it and reads aloud how many 
-	 faces were found in the passed in image. This amount is passed in from the image
-	 reader after it has run.
+	 The text to speech program works by setting it's voice properties to the voice it is 
+	 told to use (Kevin is the auto one we implemented).
+	 The voice engine is registered and then the synthesizers are created and utilized.
+	 The voice method uses freeTTS libraries for the text to speech.
