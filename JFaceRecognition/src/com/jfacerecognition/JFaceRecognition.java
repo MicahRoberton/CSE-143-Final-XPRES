@@ -21,7 +21,7 @@ public class JFaceRecognition{
 		System.loadLibrary(Core.NATIVE_LIBRARY_NAME);
 		
 
-		String imgFile = "images/many_faces.jpg"; //this is the file that is being analyzed
+		String imgFile = "images/many_happy.jpg"; //this is the file that is being analyzed
 		Mat input = Imgcodecs.imread(imgFile);
 		
 		//Creates a classifier that detects front facing faces
