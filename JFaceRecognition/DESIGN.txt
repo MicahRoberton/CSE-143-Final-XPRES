@@ -6,7 +6,12 @@
 	 We chose this design because TA's recommended using pre-written libraries for
 	 these complicated computer capabilities. 
 	 
-	 The facial detection program uses an OpenCV file for frontal face recognition as a classifier for human faces. The program takes in an image and returns the number of faces detected in the image. Rectanges are drawn on the image for each detected face and the modified image is saved. To change the input image, upload a image under the file images. Then change the image file name in line 20 to match the desired input image. The outputted image can be found in the images folder named output.jpg.
+	 The facial detection program uses an OpenCV file for frontal face recognition as a classifier for human faces.
+	 The program takes in an image and returns the number of faces detected in the image.
+	 Rectanges are drawn on the image for each detected face and the modified image is saved. 
+	 To change the input image, upload a image under the file images. 
+	 Then change the image file name in line 20 to match the desired input image. 
+	 The outputted image can be found in the images folder named output.jpg.
 	 
 	 The text to speech program works by setting it's voice properties to the voice it is 
 	 told to use (Kevin is the auto one we implemented).
